@@ -5,6 +5,7 @@ This project is a TypeScript conversion of the 3D third-person character control
 ## Credit
 
 This project is based on the tutorial and code by Wawa Sensei:
+
 - Original Repository: [r3f-3rd-person-controller-final](https://github.com/wass08/r3f-3rd-person-controller-final/tree/main)
 - Video Tutorial: [Create a 3rd Person Character Controller in React Three Fiber](https://www.youtube.com/watch?v=yjpGVIe_Gy8)
 
@@ -28,20 +29,25 @@ The original JavaScript implementation has been converted to TypeScript in this 
 ## Installation
 
 1. Clone the repository:
+
    ```
    git clone https://github.com/yourusername/r3f-3rd-person-controller-starter-ts.git
    ```
 
 2. Navigate to the project directory:
+
    ```
    cd r3f-3rd-person-controller-starter-ts
    ```
 
 3. Install dependencies:
+
    ```
    npm install
    ```
+
    or
+
    ```
    yarn install
    ```
@@ -49,10 +55,13 @@ The original JavaScript implementation has been converted to TypeScript in this 
 ## Usage
 
 1. Start the development server:
+
    ```
    npm run dev
    ```
+
    or
+
    ```
    yarn dev
    ```
@@ -86,6 +95,17 @@ This project uses TypeScript for improved type safety and developer experience. 
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
+
+## 3D Models Credits
+<https://sketchfab.com/3d-models/castle-on-hills-b874cb19b42741729b950f6afbdf0dea>
+
+<https://sketchfab.com/3d-models/de-dust-2-with-real-light-4ce74cd95c584ce9b12b5ed9dc418db5>
+
+<https://sketchfab.com/3d-models/animal-crossing-map-9f53cb8a02134037887875e022b2eae2>
+
+<https://sketchfab.com/3d-models/medieval-fantasy-book-06d5a80a04fc4c5ab552759e9a97d91a>
+
+<https://sketchfab.com/3d-models/city-scene-tokyo-b25d23ff186949dca3df669c14447db5>
 
 ## License
 
